@@ -63,7 +63,7 @@ d3.csv('./data.csv', function(dataIn){
 function drawPoints(pointData){
 
     svg.selectAll('.dataPoints')  //select all of the circles with dataPoints class that we made using the enter() commmand above
-        .data(pointData)          //re-attach them to data (necessary for when the data changes from 2016 to 2017)
+        .data(pointData)          //re-attach them to data (necessary for when the data changes from 2016 to 201    7)
         .transition()
         .ease(d3.easeSin)
         .duration(400)
