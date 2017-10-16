@@ -1,0 +1,37 @@
+neighborhood,year,x,y,r,fill
+Allston-Brighton,2016,750,1810,15,mediumaquamarine
+Allston-Brighton,2017,750,1900,15,lightsalmon
+Roxbury,2016,600,1790,15,mediumaquamarine
+Roxbury,2017,601,1750,15,lightsalmon
+Jamaica Plain,2016,420,1800,15,mediumaquamarine
+Jamaica Plain,2017,423,1820,15,lightsalmon
+E. Boston,2016,410,1700,15,mediumaquamarine
+E. Boston,2017,411,1730,15,lightsalmon
+Fenway-Kenmore,2016,400,2900,15,mediumaquamarine
+Fenway-Kenmore,2017,399,2862,15,lightsalmon
+Mattapan,2016,340,1350,15,mediumaquamarine
+Mattapan,2017,341,1328,15,lightsalmon
+S. End,2016,330,3640,15,mediumaquamarine
+S. End,2017,329,3600,15,lightsalmon
+Roslindale,2016,330,1600,15,mediumaquamarine
+Roslindale,2017,329,1602,15,lightsalmon
+North End,2016,130,2350,15,mediumaquamarine
+North End,2017,128,1355,15,lightsalmon
+Hyde Park,2016,320,1780,15,mediumaquamarine
+Hyde Park,2017,320,1766,15,lightsalmon
+W. Roxbury,2016,300,1600,15,mediumaquamarine
+W. Roxbury,2017,300,1560,15,lightsalmon
+Back Bay,2016,500,2850,15,mediumaquamarine
+Back Bay,2017,499,2920,15,lightsalmon
+Beacon Hill,2016,160,2450,15,mediumaquamarine
+Beacon Hill,2017,159,2455,15,lightsalmon
+Charlestown,2016,170,2600,15,mediumaquamarine
+Charlestown,2017,170,2597,15,lightsalmon
+Chinatown,2016,44,2455,15,mediumaquamarine
+Chinatown,2017,44,2448,15,lightsalmon
+South Boston,2016,350,2500,15,mediumaquamarine
+South Boston,2017,350,2520,15,lightsalmon
+Misson Hill,2016,160,1810,15,mediumaquamarine
+Misson Hill,2017,161,1839,15,lightsalmon
+Dorchester,2016,1340,1900,15,mediumaquamarine
+Dorchester,2017,1341,1901,15,lightsalmon

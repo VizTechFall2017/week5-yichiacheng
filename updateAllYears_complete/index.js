@@ -161,6 +161,5 @@ setInterval(function() {
         year = "2000";
     }
 
-
 }, 1000);
 */
